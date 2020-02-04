@@ -20,6 +20,6 @@ print("The BMI of the user",bmi)
 if bmi<=15:
     print("The user is under weight")
 elif (bmi>15 and bmi<=20):
-    print("the user is normal")
+    print("The user is normal")
 else:
      print("obese")
